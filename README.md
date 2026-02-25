@@ -95,8 +95,6 @@ Retry / Dead Letter Queue
 
 <img width="1915" height="842" alt="image" src="https://github.com/user-attachments/assets/698326e5-33ee-4e03-b8a9-80505e5c556f" />
 
-3️⃣ Terminal Output Screenshot
-
 <img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/e277ef48-a494-4ac7-b454-b8b31ae83d11" />
 
 
